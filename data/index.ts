@@ -74,7 +74,7 @@ export const projects = [
     id: 1,
     title: "The Weather Channel to watch the weather Forcasting ",
     des: "Explore the wonders of our Weather Application with this captivating 3D simulation of the planets using Three.js.",
-    img: "/p1.svg",
+    img: "p1.svg",
     iconLists: ["re.svg", "tail.svg", "ts.svg", "three.svg", "fm.svg"],
     link: "ui.earth.com",
   },
