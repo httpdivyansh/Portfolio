@@ -1,1 +1,2 @@
-# Portfolio2024"# Portfolio" 
+# Portfolio 
+Typescript
